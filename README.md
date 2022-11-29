@@ -29,7 +29,7 @@ Gamification(게임화)를 적용하여 스토리를 통해 흥미를 높이고,
 
 ## Project&nbsp;Period
 
-SSAFY 7기 2학기 자율 프로젝트  
+SSAFY 7기 2학기 자율 프로젝트 (우수프로젝트 수상🥈)  
 2022.10.11 ~ 2022.11.21
 
 ## Contributors
@@ -69,6 +69,7 @@ SSAFY 7기 2학기 자율 프로젝트
 ### 메인화면
 
 - 캐릭터 애니메이션과 함께 소셜로그인으로 로그인을 진행합니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203252168-30b88b92-e457-4cd6-b38a-707f1a24248a.gif"/>
 
 ### 스토리 모드
@@ -82,24 +83,29 @@ SSAFY 7기 2학기 자율 프로젝트
 - 해당하는 과목 내용을 학습할 수 있습니다.
 - 퀴즈를 진행하여 관련 내용을 학습합니다.
 - 웹에서 직접 코딩테스트를 진행할 수 있습니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203252196-b8e84d22-666b-4d47-8f42-7bd3c80e7b8f.gif"/>
 
 ### AI 면접
 
 - 사용자의 얼굴인식, 음성인식과 함께 준비된 면접 질문에 답변하여 AI 면접을 경험할 수 있습니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203252228-55385e1e-ddf9-4d52-84ce-16030b3b543d.gif"/>
 
 ### 앨범
 
 - 특정 조건을 만족하면 보상으로 관련 앨범을 획득할 수 있습니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203251527-bec1891b-d6bc-457f-812b-f3d14ba5ecb7.gif"/>
 
 ### 내정보
 
 - 내정보와 함께 진행한 스토리 상세내역을 확인할 수 있습니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203250430-1be9cfb7-f4d1-4639-9203-8cda958bcf53.gif"/>
 
 ### 랭킹
 
 - 학습한 퀴즈 진행도의 랭킹을 확인할 수 있습니다.
+
   <img width="70%" src="https://user-images.githubusercontent.com/87989933/203251079-55ecefdf-8c0d-4221-885f-19abf1fbb151.gif"/>
